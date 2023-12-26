@@ -13,3 +13,5 @@ python-lsp-jsonrpc
 python-lsp-server
 scikit-learn-intelex
 xgboost
+numpy
+pandas
