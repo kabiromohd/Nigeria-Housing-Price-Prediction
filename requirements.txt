@@ -41,12 +41,10 @@ lightgbm
 llvmlite
 mathparse
 mccabe
-mkl-service
 MouseInfo
 mpmath
 munkres
 mypy-extensions
-num2words
 oauthlib
 pathspec
 patsy
