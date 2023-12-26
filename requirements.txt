@@ -7,8 +7,6 @@ backports.weakref
 brotlipy
 cachetools
 clyent
-conda-repo-cli
-conda-verify
 constantly
 cssselect
 daal4py
