@@ -62,6 +62,9 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = Dash(__name__, external_stylesheets=external_stylesheets)
 
+# Create server variable with Flask server object for use with gunicorn
+server = app.server # Flask server
+
 app.layout = html.Div(
     [
         html.H1("Housing Price Prediction in Nigeria"),
@@ -179,4 +182,4 @@ def predict_Price(state_name, apartment_type, para_a, para_b, para_c):
     
     
 if __name__ == '__main__':
-    app.run(debug = True, host = '0.0.0.0', port = 8096)
+    app.run_server(debug = True, host = '0.0.0.0', port = 8096)
