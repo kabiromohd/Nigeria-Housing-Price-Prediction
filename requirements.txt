@@ -33,7 +33,6 @@ jsonpointer
 jupyter-dash
 lambdaprompt
 libclang
-mkl-fft
 mkl-service
 ml-dtypes
 munkres
@@ -43,7 +42,6 @@ oauthlib
 openpyxl
 opt-einsum
 patsy
-Pillow
 pipenv
 platformdirs
 ply
