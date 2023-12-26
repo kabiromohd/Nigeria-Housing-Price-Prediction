@@ -24,9 +24,6 @@ flatbuffers
 fonttools
 gast
 gunicorn
-google-auth
-google-auth-oauthlib
-google-pasta
 grpcio
 inflection
 jsonpointer
