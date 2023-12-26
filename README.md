@@ -1,6 +1,6 @@
 # Nigeria-Housing-Price-Prediction
 
-## Overview of project and Hackathon
+## Overview of project
 
 Wazobia Real Estate Limited is a prominent real estate company operating in Nigeria. With a vast portfolio of properties, they strive to provide accurate and competitive pricing for houses. However, they have been facing challenges in accurately predicting the prices of houses in the current market. To overcome this hurdle, Wazobia Real Estate Limited is seeking the expertise of data scientists like you to develop a robust predictive model.
 
@@ -8,7 +8,7 @@ The objective of this hackathon is to create a powerful and accurate predictive 
 
 By participating in this hackathon, you have the opportunity to make a significant impact on the operations and growth of Wazobia Real Estate Limited. Your data-driven solution will empower the company to overcome their pricing challenges, improve their market position, and deliver enhanced value to their customers.
 
-The hackathon was organised by Data Scientists Network, formerly known as Data Science Nigeria (DSN) (datasciencenigeria.org)
+The hackathon was organised by Data Scientists Network, formerly known as Data Science Nigeria (DSN) (datasciencenigeria.org). Hackathon ended months ago
 
 [PROJECT DATA LINK](https://zindi.africa/competitions/free-ai-classes-in-every-city-hackathon-2023/data)
 
