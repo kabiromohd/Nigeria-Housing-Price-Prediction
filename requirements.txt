@@ -70,10 +70,6 @@ python-dateutil
 python-dotenv
 python-lsp-jsonrpc
 python-lsp-server
-pytweening
-pytz
-pywhatkit
-PyYAML
 queuelib
 requests-oauthlib
 retrying
