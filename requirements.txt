@@ -1,4 +1,3 @@
-absl-py
 annotated-types
 ansi2html
 appdirs
