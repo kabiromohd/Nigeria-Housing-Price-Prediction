@@ -37,6 +37,10 @@ git clone https://github.com/kabiromohd/Nigeria-Housing-Price-Prediction.git
     
 ### Model deployment to web services
 - Dash was used for web deployment via *HOUSING_PROJECT.py* script.
+See Dashboard below
+
+![image](https://github.com/user-attachments/assets/5a989fc4-d195-4431-9796-0ed2b2d96666)
+
 
 ### Dependencies 
 - They are listed in the *requirement.txt* file in the git repo and used for cloud deployment on [Render](render.com)
